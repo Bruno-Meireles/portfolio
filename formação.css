@@ -1,0 +1,61 @@
+.Container-formacao{
+    background-color:black;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.title h2{
+    color: #fff;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.Caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
+
+.Card{
+    background: #191919;
+    height: 365px;
+    width: 335px;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align:  center;
+    
+}
+
+.Card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #f9004d;
+}
+
+h5{
+    color: #fff;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+
+.Paragrafo-button{
+    color: #fcfc;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+
+.Paragrafo-button button{
+    margin-top: 50px;
+   
+}
