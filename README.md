@@ -1,17 +1,19 @@
-# Nome do meu projeto
+Portfolio Bruno meireles
 
-Rápida descrição do objetivo de fazer esse projeto
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | portfolio Bruno Meireles
+| :label: Tecnologias | java, html,css 
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+![Screenshot_1](https://user-images.githubusercontent.com/88012503/196434736-479daab8-84af-499b-a9a1-7cae39d74bbc.png)
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+ portfolio, projeto feito com html e css um pouco de java 
+
+![Screenshot_2](https://user-images.githubusercontent.com/88012503/196434803-4ef5031f-b8f0-45eb-8fc1-d2625198e651.png)
+![Screenshot_3](https://user-images.githubusercontent.com/88012503/196434834-55699d34-52a0-4a44-b503-139bfaf05eab.png)
