@@ -6,8 +6,8 @@ Portfolio Bruno meireles
 | -------------  | --- |
 | :sparkles: Nome        | portfolio Bruno Meireles
 | :label: Tecnologias | java, html,css 
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://bruno-meireles.github.io/portfolio/
+| :fire: Desafio     | https://github.com/Bruno-Meireles/portfolio.git
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/88012503/196434736-479daab8-84af-499b-a9a1-7cae39d74bbc.png)
